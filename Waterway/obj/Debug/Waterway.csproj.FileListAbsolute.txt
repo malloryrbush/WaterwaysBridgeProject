@@ -1,0 +1,7 @@
+C:\Users\WeCanCodeIT\source\repos\Waterway\Waterway\bin\Debug\Waterway.exe.config
+C:\Users\WeCanCodeIT\source\repos\Waterway\Waterway\bin\Debug\Waterway.exe
+C:\Users\WeCanCodeIT\source\repos\Waterway\Waterway\bin\Debug\Waterway.pdb
+C:\Users\WeCanCodeIT\source\repos\Waterway\Waterway\obj\Debug\Waterway.csproj.CoreCompileInputs.cache
+C:\Users\WeCanCodeIT\source\repos\Waterway\Waterway\obj\Debug\Waterway.exe
+C:\Users\WeCanCodeIT\source\repos\Waterway\Waterway\obj\Debug\Waterway.pdb
+C:\Users\WeCanCodeIT\source\repos\Waterway\Waterway\obj\Debug\Waterway.csprojAssemblyReference.cache
